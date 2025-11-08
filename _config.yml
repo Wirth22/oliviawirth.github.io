@@ -12,10 +12,10 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Olivia Wirth"
 title_separator          : "-"
 name                     : &name "Olivia Wirth"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : # &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://wirth22.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -61,9 +61,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : 'www.linkedin.com/in/olivia-wirth-58b601192'
+  instagram        : #
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : 'www.linkedin.com/in/olivia-wirth-58b601192'
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -135,7 +135,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :# &twitter
 facebook:
   username               :
   app_id                 :
@@ -162,6 +162,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -220,7 +221,7 @@ kramdown:
 collections:
   teaching:
     output: false
-    permalink: /:collection/:path/
+    permalink:  /:collection/:path/
   publications:
     output: false
     permalink: /:collection/:path/
