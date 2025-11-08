@@ -5,5 +5,5 @@ permalink: /cv/
 author_profile: true
 ---
 
-<embed src="/files/Olivia_Wirth_CV.pdf" type="application/pdf" width="100%" height="800px" />
+<embed src="/files/CV_Nov2025.pdf" type="application/pdf" width="100%" height="800px" />
 
