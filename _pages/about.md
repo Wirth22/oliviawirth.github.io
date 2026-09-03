@@ -7,15 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I hold a PhD in Economics from the [Chair of Development Economics](https://www.wiwi.uni-passau.de/en/development-economics) [(Prof. Michael Grimm)](https://sites.google.com/view/mgrimm/start) and was member of the [DFG Research Training Group 2720: "Digital Platform Ecosystems (DPE)"](https://www.dpe.uni-passau.de/en/). My research explores the impact of digital technologies on development outcomes in sub-Saharan Africa, particularly in the areas of agriculture, financial inclusion, and domestic revenue mobilization, and extending to issues of climate change adaptation among smallholder farmers.
+I am a Postdoctoral Researcher at the [University of Göttingen](https://www.uni-goettingen.de/en/businessandeconomics/faculty/about-us/profile/682433.html). I received my PhD in Economics from the [University of Passau](https://www.wiwi.uni-passau.de/en/development-economics) [(Prof. Michael Grimm)](https://sites.google.com/view/mgrimm/start), where I was a member of the [DFG Research Training Group 2720: "Digital Platform Ecosystems (DPE)"](https://www.dpe.uni-passau.de/en/). My research explores the impact of digital technologies on development outcomes in sub-Saharan Africa, particularly in the areas of agriculture, financial inclusion, and domestic revenue mobilization, and extending to issues of climate change adaptation among smallholder farmers.
 
 During Fall 2024, I was a visiting PhD student at The Fletcher School at Tufts University, invited by [Prof. Jenny C. Aker](https://sites.tufts.edu/jennyaker/).
-I hold an MSc in Economics from the Ludwig Maximilian University of Munich (LMU) and have worked as a research assistant at the [ifo Institute – Leibniz Institute for Economic Research](https://www.ifo.de/en/ifo-homepage).
+I hold an MSc in Economics from the Ludwig Maximilian University of Munich (LMU) and previously worked as a research assistant at the [ifo Institute – Leibniz Institute for Economic Research](https://www.ifo.de/en/ifo-homepage).
 
 
 ## Ongoing Field Projects
 
-If you build it, will they come? Incentivizing the Adoption of Digital Financial Services in Niger  
+If you build it, will they come? Incentivizing Learning and Networks in Digital Financial Services
 With [Jenny C. Aker](https://sites.tufts.edu/jennyaker/), [Josué Awonon](https://awonon.github.io/), [Michael Grimm](https://sites.google.com/view/mgrimm/start), and [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/team/research-associates/christina-petrik)
 
 Adopting Technology under Climate Stress: Evidence from Randomized Soil Tests and Fertilizer Recommendations   
@@ -27,7 +27,7 @@ With [Christina Petrik](https://www.wiwi.uni-passau.de/en/development-economics/
 
 ## Working Paper
 [Marina Dodlova](https://dodlova.com/), [Krisztina Kis-Katos](https://www.uni-goettingen.de/de/krisztina+kis-katos/545784.html), [Anna Kochanova](https://www.annakochanova.com/), and Olivia Wirth (2023).
-[Mobile Technologies and Firm Formalization: Evidence from Uganda](https://www.econstor.eu/bitstream/10419/283795/1/wp2023-099.pdf) *World Institute for Development Economic Research (UNU-WIDER*), Working Paper No. 2023-99.
+[Mobile Technologies and Firm Formalization: Evidence from Uganda](https://www.econstor.eu/bitstream/10419/283795/1/wp2023-099.pdf) *World Institute for Development Economic Research (UNU-WIDER*), Working Paper No. 2023-99. R&R, Journal of Development Economics
 
 
 ## Publications
